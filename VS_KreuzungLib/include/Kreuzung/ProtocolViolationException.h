@@ -1,5 +1,5 @@
-#ifndef ILLEGALAMPELSTATEEXCEPTION_H
-#define ILLEGALAMPELSTATEEXCEPTION_H
+#ifndef PROTOCOLVIOLATIONEXCEPTION_H
+#define PROTOCOLVIOLATIONEXCEPTION_H
 
 #include <string>
 #include<stdexcept>
@@ -11,4 +11,4 @@ public:
 	ProtocolViolationException(const ProtocolViolationException& e);
 
 };
-#endif //ILLEGALAMPELSTATEEXCEPTION_H
+#endif //PROTOCOLVIOLATIONEXCEPTION_H

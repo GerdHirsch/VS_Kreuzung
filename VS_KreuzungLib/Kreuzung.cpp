@@ -1,8 +1,9 @@
+#include "include/Kreuzung/Kreuzung.h"
+
 #include<iostream>
 #include <Windows.h>
 
-#include "Kreuzung.h"
-#include "Ampel.h"
+#include "include/Kreuzung/Ampel.h"
 
 using namespace std;
 
